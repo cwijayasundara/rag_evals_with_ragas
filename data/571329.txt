@@ -1,0 +1,5 @@
+call_id: 571329
+call_date_time: 15:12:2023 10:47:32
+call_duration: 00:06:45
+agent: Hannah Simmons
+call_transcript: agent(Hannah Simmons) Good day, thank you for calling. How may I assist you? customer(Michael Thompson) It seems there's a discrepancy in my transaction history. agent(Hannah Simmons) I understand that can be concerning. May I have the last four digits of your SSN and your email for verification? customer(Michael Thompson) Of course, the last four digits are 6790, and my email is michael.thompson@digitalmail.com. agent(Hannah Simmons) Perfect, Mr. Thompson, let's review those transactions together.

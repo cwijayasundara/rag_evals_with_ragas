@@ -1,0 +1,5 @@
+call_id: 843576
+call_date_time: 17:09:2023 11:31:20
+call_duration: 00:09:13
+agent: Emily Carter
+call_transcript: agent(Emily Carter) Hello and welcome to our service desk. How can I assist you with your banking needs today? customer(John Doe) Hi, I've noticed several unauthorized transactions on my account. agent(Emily Carter) I'm really sorry to hear that, John. For your security, can I have your email and the last four digits of your SSN, please? customer(John Doe) Sure, my email is john.doe@email.com and the last four digits are 1234. agent(Emily Carter) Thanks, I'll take a look into your account immediately and we'll get this sorted out.

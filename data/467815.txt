@@ -1,0 +1,5 @@
+call_id: 467815
+call_date_time: 25:03:2024 14:21:47
+call_duration: 00:05:21
+agent: Roger Clark
+call_transcript: agent(Roger Clark) How can I assist you today? customer(Susan Bennett) I've got an issue with my account. agent(Roger Clark) Can you please provide me your telephone number and the email address associated with your account for verification purposes? customer(Susan Bennett) Sure, my phone number is (555) 231-5874 and my email is susan.bennett@mailservice.com. agent(Roger Clark) Thank you, Ms. Bennett. How may I help you with your account issue?

@@ -1,0 +1,5 @@
+call_id: 653782
+call_date_time: 14:08:2023 15:27:05
+call_duration: 00:07:49
+agent: Thomas Green
+call_transcript: agent(Thomas Green) Thank you for calling our helpdesk, how can I be of service? customer(Sarah Benson) I'm having trouble with my online banking login. agent(Thomas Green) I'm here to help you, Sarah. To protect your account, may I have your email address and the last four digits of your SSN? customer(Sarah Benson) Of course, my email is sarah.benson@email.com and the last digits are 4321. agent(Thomas Green) Great, I'll assist you in resetting those login credentials right away.

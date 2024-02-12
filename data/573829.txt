@@ -1,0 +1,5 @@
+call_id: 573829
+call_date_time: 12:05:2023 09:45:17
+call_duration: 00:08:40
+agent: Megan Torres
+call_transcript: agent(Megan Torres) Good morning, how can I assist you today? customer(Kevin Wright) I'm looking to update my contact information on my profile. agent(Megan Torres) Sure thing, Kevin. Can I have your email address and the last four digits of your SSN to verify your identity? customer(Kevin Wright) Yes, my email is kevin.wright@email.com and the last four are 6789. agent(Megan Torres) Perfect, let's update your information now.

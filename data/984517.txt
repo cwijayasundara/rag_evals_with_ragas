@@ -1,0 +1,5 @@
+call_id: 984517
+call_date_time: 17:08:2023 09:32:15
+call_duration: 00:08:19
+agent: Erica Walsh
+call_transcript: agent(Erica Walsh) Good morning, how may I assist you today? customer(Mark Anderson) I can't access my online banking. agent(Erica Walsh) I can help with that. Could you please provide me with your email address and telephone number? customer(Mark Anderson) Yes, it's mark.anderson@netmail.com and my phone number is (555) 896-3421. agent(Erica Walsh) Thank you, Mr. Anderson. Let's get you back into your account.

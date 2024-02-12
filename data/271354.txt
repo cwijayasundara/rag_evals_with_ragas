@@ -1,0 +1,5 @@
+call_id: 271354
+call_date_time: 08:07:2023 14:22:05
+call_duration: 00:05:32
+agent: Lucas Green
+call_transcript: agent(Lucas Green) How can I be of service today? customer(Sarah Bennett) I'm having trouble with a payment not going through. agent(Lucas Green) Let's resolve that for you, Sarah. Can I have the last four digits of your SSN for security purposes? customer(Sarah Bennett) Sure, they are 4321. agent(Lucas Green) Great, we'll check on that payment now.

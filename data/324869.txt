@@ -1,0 +1,5 @@
+call_id: 324869
+call_date_time: 10:06:2023 11:15:43
+call_duration: 00:05:32
+agent: Elizabeth Jenkins
+call_transcript: agent(Elizabeth Jenkins) Hi there! How can I help you today? customer(Aaron Mitchell) Hi, I need to report a lost card. agent(Elizabeth Jenkins) I'm sorry to hear that, Aaron. For security, can I have your email address and telephone number? customer(Aaron Mitchell) Certainly, my email is a.mitchell@email.com and my phone number is (555) 123-4567. agent(Elizabeth Jenkins) Thank you. I'll block your card immediately and issue a new one.

@@ -1,0 +1,5 @@
+call_id: 345234
+call_date_time: 03:03:2024 16:42:30
+call_duration: 00:08:35
+agent: Nina Walsh
+call_transcript: agent(nina walsh) Good afternoon, how may I assist you today? customer(alex morgan) Hi, I've noticed an unfamiliar charge on my account. agent(nina walsh) I can help with that. For security purposes, can I have the last 4 digits of your SSN and your full name, please? customer(alex morgan) The last four digits are 9910, and my name is Alex Morgan. agent(nina walsh) Thank you, Alex. What is the date and the amount of the suspect transaction? customer(alex morgan) It's from yesterday, and the amount is 200 dollars. agent(nina walsh) One moment while I pull up your account details. Thank you for waiting. I've located the transaction. Would you like to dispute this charge? customer(alex morgan) Yes, please. agent(nina walsh) I've initiated the dispute process. Expect a confirmation email by tomorrow. Is there anything else I can be of service with? customer(alex morgan) No, that's all for now, thank you. agent(nina walsh) You're welcome, Alex. Have a great day. customer(alex morgan) You too, goodbye. agent(nina walsh) Goodbye.
